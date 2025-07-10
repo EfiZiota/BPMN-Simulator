@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/dom4j-2.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-1.2-api-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-api-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-api-test-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-appserver-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-cassandra-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-core-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-core-test-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-couchdb-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-docker-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-flume-ng-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-iostreams-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-jakarta-smtp-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-jakarta-web-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-jcl-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-jdbc-dbcp2-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-jpa-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-jpl-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-kubernetes-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-layout-template-json-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-mongodb3-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-mongodb4-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-slf4j2-impl-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-slf4j-impl-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-spring-boot-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-spring-cloud-config-client-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-taglib-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-to-jul-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-to-slf4j-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/log4j-web-2.22.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/poi-bin-5.1.0/poi-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/poi-bin-5.1.0/poi-examples-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/poi-bin-5.1.0/poi-excelant-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/poi-bin-5.1.0/poi-javadoc-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/poi-bin-5.1.0/poi-ooxml-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/poi-bin-5.1.0/poi-ooxml-full-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/poi-bin-5.1.0/poi-ooxml-lite-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/poi-bin-5.1.0/poi-scratchpad-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/poi-bin-5.1.0/ooxml-lib/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/poi-bin-5.1.0/ooxml-lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/poi-bin-5.1.0/ooxml-lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/poi-bin-5.1.0/ooxml-lib/slf4j-api-1.7.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/poi-bin-5.1.0/ooxml-lib/xmlbeans-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/poi-bin-5.1.0/lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/poi-bin-5.1.0/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/poi-bin-5.1.0/lib/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/poi-bin-5.1.0/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Documents/libraries/poi-bin-5.1.0/lib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Downloads/camunda-bpmn-model-7.21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Downloads/guava-33.1.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Downloads/jfreechart-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Έφη/Downloads/xchart-3.8.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
